@@ -1,0 +1,43 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#index {
+    background-color: rgb(199, 227, 252);
+    
+}
+
+h1.index {
+    font-size: 100px;
+}
+
+.index {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.list {
+    margin-left: 710px;
+    list-style: none;
+    
+}
+
+.li {
+    padding-bottom: 10px;
+    font-size: x-large;
+    
+}
+
+#smoothie {
+    background-color: #fa9dc8;
+}
+
+#bagel {
+    background-color: beige;
+}
+
+#wrap {
+    background-color: #f86c84;
+}
